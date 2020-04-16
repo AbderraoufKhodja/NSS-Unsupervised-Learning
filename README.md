@@ -5,7 +5,7 @@ Similarity Noise Training for Image Denoising
 Contact: KHODJA ABD ERRAOUF, Email:201710800010@zjnu.edu.cn
 
 ----------------------------------------------------------------------
-Training and testing demo of Unsupervised Learning for Image Denoising, 
+Training and testing demo Similarity Noise Training for Image Denoising, 
 All training have been condacted on Windows 10, with Matlab R2018b with
 Matconvnet toolbox consider compiling Matconvnet in advance.
 
