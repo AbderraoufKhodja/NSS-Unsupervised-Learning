@@ -37,8 +37,6 @@ Model_test            (Helper function for performing patch matching and testing
 
 Ag_Net.m, CL_Net.m    (initializate the model)
 
-README.tex
-
 README.md
 
 ----------------------------------------------------------------------
