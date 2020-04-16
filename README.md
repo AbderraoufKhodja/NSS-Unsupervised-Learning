@@ -1,16 +1,16 @@
 
-% ======================================================================
-% Similarity Noise Training for Image Denoising
+======================================================================
+Similarity Noise Training for Image Denoising
 
-% Contact: KHODJA ABD ERRAOUF, Email:201710800010@zjnu.edu.cn
+Contact: KHODJA ABD ERRAOUF, Email:201710800010@zjnu.edu.cn
 
-% ----------------------------------------------------------------------
-% Training and testing demo of Unsupervised Learning for Image Denoising, 
-% All training have been condacted on Windows 10, with Matlab R2018b with
-% Matconvnet toolbox consider compiling Matconvnet in advance.
+----------------------------------------------------------------------
+Training and testing demo of Unsupervised Learning for Image Denoising, 
+All training have been condacted on Windows 10, with Matlab R2018b with
+Matconvnet toolbox consider compiling Matconvnet in advance.
 
 
-% ------ Contents -----------------------------------------------------
+------ Contents -----------------------------------------------------
 data
 ----Test (Set12 and Set68 )
 ----Train400 (400 training images default training patch size 20X20)
@@ -23,5 +23,6 @@ test_performance_Train400_NSS_no_gt_training.m   (test  Train400 model)
 train_tow_net.m       (the main body of training code)
 Model_test            (Helper function for performing patch matching and testing)
 Ag_Net.m, CL_Net.m    (initializate the model)
+README.tex
 README.md
-% ----------------------------------------------------------------------
+----------------------------------------------------------------------
