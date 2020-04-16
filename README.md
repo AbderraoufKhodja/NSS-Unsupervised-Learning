@@ -1,6 +1,6 @@
 
 % ======================================================================
-% Unsupervised Learning for Image Denoising
+% Similarity Noise Training for Image Denoising
 
 % Contact: KHODJA ABD ERRAOUF, Email:201710800010@zjnu.edu.cn
 
@@ -23,5 +23,5 @@ test_performance_Train400_NSS_no_gt_training.m   (test  Train400 model)
 train_tow_net.m       (the main body of training code)
 Model_test            (Helper function for performing patch matching and testing)
 Ag_Net.m, CL_Net.m    (initializate the model)
-README.txt
+README.md
 % ----------------------------------------------------------------------
